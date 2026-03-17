@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(0, 255, 255, 0.637);
+    text-align: center;
+}
+
+.menu{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(209, 200, 200, 0.1);
+}
+
+h1{
+    color: bisque;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    font-size: 18px;
+}
+
+li:hover{
+    background-color: aquamarine;
+}
+
+.Bebida{
+       background-color: white;
+    text-align: center;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(209, 200, 200, 0.1);
+}
